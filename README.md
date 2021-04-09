@@ -20,4 +20,7 @@ There is a statement summarizing three business recommendations to the CEO for a
 
 Based on the data table, we can have a short conclusion for the CEO that the demand of using ride-sharing app in Urban cities is higher than Rural and Suburban citites. That is why Urban cities have more driver and the average fare per ride as well as per drivers are cheaper than the 2 others cities. The PyBer company should focus more on Suburban city especially Rural cities to bring more chance to these 2 cities to have cheaper price on fares. 
 ![Summary](Resources/Summary_DataFrame.png)
+
+Overall, the fares in Suburban and Rural cities are not much different. However, they are much different from the Urban cities. This thing depends on many factors: the type of cities, the demand and the living style of the citizes in the cities. 
+
 ![Types](Resources/fares_by_city_type.png)
