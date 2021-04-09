@@ -1,11 +1,12 @@
 # PyBer_Analysis
 ## Overview of the analysis:
 
-#The purpose:  Create the charts to show the relationship between the type of cities, drivers and riders. This analysis will help Pyber company to  imporve acces and determine affordability for underserved neighborhoods.
+# The purpose:  Create the charts to show the relationship between the type of cities, drivers and riders. This analysis will help Pyber company to  imporve acces and determine affordability for underserved neighborhoods.
 
 # Results:
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
+
 Based on the graph "Total Fare by City Type", we can see that Urabn city has the highest number of fares but it decreasing. The suburban is the potential city, which has the number of fares is increasing. With the rural cities, number of fare is not changing a lot and they might be decreasing.
 ![Summary](Resources/Challenge_fare_summary.png)
 
