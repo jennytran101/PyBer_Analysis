@@ -2,7 +2,7 @@
 ## Overview of the analysis:
 
 # The purpose:  
-Create the charts to show the relationship between the type of cities, drivers and riders. This analysis will help Pyber company to  imporve acces and determine affordability for underserved neighborhoods.
+Create the charts to show the relationship between the type of cities, drivers and riders. This analysis will help Pyber company to  imporve access and determine affordability for underserved neighborhoods.
 
 # Results:
 
